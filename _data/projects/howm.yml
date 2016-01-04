@@ -1,0 +1,13 @@
+name: howm
+desc: A lightweight, X11 tiling window manager that behaves like vim
+site: https://github.com/HarveyHunt/howm
+tags:
+- C
+- WM
+- Tiling
+- X11
+- XCB
+- vi
+upforgrabs:
+  name: beginner
+  link: https://github.com/HarveyHunt/howm/labels/beginner
